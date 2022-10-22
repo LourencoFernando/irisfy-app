@@ -1,0 +1,2 @@
+Dependências
+npm i spotify-web-api-js
